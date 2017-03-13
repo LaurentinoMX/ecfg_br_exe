@@ -1,0 +1,42 @@
+-File::C++ Compiler
++data=\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0 \0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0B\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0b\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0ÿ\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0P¤€\0\0\0\0\0\0
++date=2450673
++time=58169
+-File::Linker
++data=\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0€g„y\0\0\0\0\0\0\0\0 \0*\0.\0H\0	\0\0\0\0;\0C\06\0\0\0\0\0\0\0P\0R\0&\0\0\0\0\0T\0V\0\0\0\0\0\0\0\0\0\0\0\0WINDOWS\0%o\0advapi32.lib\0%t.lib\065536\0512\0256\01048576\04096\01048576\04096\04194304\04\00\00\00\0
++date=2450673
++time=58176
+-Project::Build normal
++data=/project "c:\\Ffsbdll\\CDLLPRJ.IWP" /noUseParentOptions /noPassOptionsToSubprojects /genMakeFile /noGenForce /noGenDepFile /genScript IWFMMGEN.CMD /buildSubprojects /lockProjects /checkTargets /prompt /noDisplay /toolName "Build normal" /make "NMAKE /f %makefile%" /action "C++ Compiler" /action "Linker" /action "Make Exp file" /action "Make Def file" \0
++date=2450548
++time=52006
+-Project::Rebuild all
++data=/project "c:\\sbdll\\afwsbapi.iwp" /toolName "Rebuild all" /noUseParentOptions /noPassOptionsToSubprojects /action "C++ Compiler" /action "Linker" /action "Make Def file" /action "Make Exp file" /genMakeFile /noGenForce /noGenDepFile /genScript "IWFMMGEN.CMD" /make "NMAKE /a /f %makefile%" /buildSubprojects /lockProjects /checkTargets /prompt /noDisplay\0
++date=2450548
++time=56327
+-File::OPTBLDSM
++data=b4\0\0\0\0\0\0\0\0\0\0\0\0\0\0
++date=2450548
++time=52090
+-File::OPTTEMPL
++data=/Tdp \n /Gm /Gd /Ge- /Gf- \n \n\0
++date=2450673
++time=58169
+-Project::IWFMMake::Timestamp
++data=871419130
++date=2450673
++time=60730
+-Project::IWFMMake::Action Set
++data=/action "C++ Compiler" /action "Make Def file" /action "Make Exp file" /action "Linker" 
++date=2450673
++time=60730
+-Project::IWFMMake::File Set
++data=/file "c:\\sb9dll\\Bfsrc\\Bf9sbapi.obj" /file "c:\\sb9dll\\Bfsrc\\Bf9sbapi.exp" /file "c:\\sb9dll\\Bfsrc\\Bf9sbapi.lib" /file "c:\\sb9dll\\Bfsrc\\Bf9sbapi.def" /file "c:\\sb9dll\\Bfsrc\\Bf9sbapi.c" 
++date=2450673
++time=60730
+9
+
++time=54752
+ll\\sbodll.def" /file "c:\\ffsbdll\\sbodll.exp" 
++date=2450548
++time=53210

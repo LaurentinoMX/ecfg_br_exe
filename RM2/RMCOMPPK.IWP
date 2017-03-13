@@ -1,0 +1,20 @@
+-ProjectInfo
++name=rmcomppk EXE Project
++type=VACPP.IWS
+-BuildInfo
++target=D:\\base\\RMCOMPPK.EXE
++runOptions=
++makefile=\\base\\mak\\rmcomppk.mak
+-LocationInfo
++defaultDir=D:\\base\\obj\\ppk
++dirs=D:\\base\\INC;D:\\base\\rm2\\src\\ppk;D:\\base\\rm2\\src\\ppk\\mainsrc;D:\\base\\mri;D:\\base\\obj\\ppk;d:\\base\\rm2\\inc
+-ConfigInfo
++filter=*.cpp;*.c
++position=0 1 -1 -1 -1 -1 654 63 1016 531
++view=tree
+-Environment
++var1=INCLUDE=%INCLUDE%;D:\\base\\INC;d:\\base\\rm2\\inc
++var2=INCLUDE=%INCLUDE%;\\Base\\src;\\Base\\rm2\\src
++var3=INCLUDE=%INCLUDE%;\\Base\\rm2\\src\\rm2icext
++var4=LIB=%LIB%;D:\\base\\Rm2\\lib
+

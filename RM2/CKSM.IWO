@@ -1,0 +1,53 @@
+-Project::Build normal
++data=/project "d:\\base\\rm2\\rmcomppk.iwp" /toolName "Build normal" /useParentOptions /passOptionsToSubprojects /action "C++ Compiler" /action "Linker" /noGenMakeFile /noGenForce /noGenDepFile /genScript "IWFMMGEN.CMD" /make "NMAKE /f %makefile%" /buildSubprojects /lockProjects /checkTargets /prompt /noDisplay\0
++date=2450597
++time=56114
+-File::OPTBLDSM
++data=`\0\0\0\0\0\0\0\0\0\0\0\0\0FP\0
++date=2450506
++time=58571
+-Project::Rebuild all
++data=/project "d:\\base\\rm2\\rmcomppk.iwp" /toolName "Rebuild all" /useParentOptions /passOptionsToSubprojects /action "C++ Compiler" /action "Linker" /genMakeFile /noGenForce /noGenDepFile /genScript "IWFMMGEN.CMD" /make "NMAKE /a /f %makefile%" /buildSubprojects /lockProjects /checkTargets /prompt /noDisplay\0
++date=2450597
++time=56120
+-File::OPTTEMPL
++data=/DNO_STRICT /Tdp \n /Tx \n /Gm \n \n\0
++date=2452152
++time=63235
+-File::C++ Compiler
++data=\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0 \0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0B\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0b\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0&\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0ÿ\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0¨¦\0\0\0\0\0\0NO_STRICT\0
++date=2452152
++time=63235
+-File::Linker
++data=\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0ÀŸ†y\0\0\0\0\0\0\0\0:\0D\0H\0b\0	\0\0\0\0U\0]\0P\0\0\0\0\0\0\0\0j\0l\0@\0\0\0\0\0n\0p\0\0\0\0\0\0\0\0\0\0\0\0WINDOWS\0%o\0w95ckcfr.lib cppwm35.lib ALCTLS.lib ICEXT.lib\065536\0512\0256\01048576\04096\01048576\04096\04194304\04\00\00\00\0
++date=2450597
++time=67591
+-Project::IWFMMake::Timestamp
++data=864915538
++date=2450598
++time=37139
+-Project::IWFMMake::Action Set
++data=/action "C++ Compiler" /action "Linker" 
++date=2450598
++time=37139
+-Project::IWFMMake::File Set
++data=/file "D:\\base\\rm2\\src\\cksm\\CKSMCFR.CPP" /file "D:\\base\\obj\\cksm\\CKSMCFR.obj" 
++date=2450598
++time=37139
+2\\src\\ppk\\PKFEAT.CPP" /file "D:\\base\\rm2\\src\\ppk\\PKFEATL.CPP" /file "D:\\base\\rm2\\src\\ppk\\EUOUTIL.CPP" 
++date=2450597
++time=56715
+y\\Src\\AFCLOAD.CPP" /file "D:\\OrdApply\\Src\\AFCLSTFL.CPP" /file "D:\\OrdApply\\Src\\AFCMES.CPP" /file "D:\\OrdApply\\Src\\AFCPARSE.CPP" /file "D:\\OrdApply\\Src\\AFCPROD.CPP" /file "D:\\OrdApply\\Src\\AFCSAVE.CPP" /file "D:\\OrdApply\\Src\\AFCSYS.CPP" /file "D:\\OrdApply\\Src\\Af9detl.cpp" /file "D:\\OrdApply\\Src\\Af9dtobj.cpp" /file "D:\\OrdApply\\Src\\Af9local.cpp" /file "D:\\OrdApply\\Src\\Af9main.cpp" /file "D:\\OrdApply\\Src\\Af9ordrs.cpp" /file "D:\\OrdApply\\Src\\Af9profl.cpp" /file "D:\\OrdApply\\Src\\Af9ption.cpp" /file "D:\\OrdApply\\Src\\Af9sysed.cpp" /file "D:\\OrdApply\\Src\\af9apply.RES" /file "D:\\OrdApply\\Src\\Af9apply.rc" /file "D:\\OrdApply\\Src\\Af9systm.cpp" /file "D:\\OrdApply\\Src\\Af9seldt.cpp" /file "D:\\OrdApply\\Src\\Af9name.cpp" /file "D:\\OrdApply\\obj\\Af9seldt.obj" /file "D:\\OrdApply\\obj\\Af9name.obj" /file "D:\\OrdApply\\obj\\AFCABPRD.obj" /file "D:\\OrdApply\\obj\\AFCBKEND.obj" /file "D:\\OrdApply\\obj\\AFCCFRST.obj" /file "D:\\OrdApply\\obj\\AFCCNVRT.obj" /file "D:\\OrdApply\\obj\\AFCCPULS.obj" /file "D:\\OrdApply\\obj\\AFCGENCF.obj" /file "D:\\OrdApply\\obj\\AFCGETFL.obj" /file "D:\\OrdApply\\obj\\AFCLOAD.obj" /file "D:\\OrdApply\\obj\\AFCLSTFL.obj" /file "D:\\OrdApply\\obj\\AFCMES.obj" /file "D:\\OrdApply\\obj\\AFCPARSE.obj" /file "D:\\OrdApply\\obj\\AFCPROD.obj" /file "D:\\OrdApply\\obj\\AFCSAVE.obj" /file "D:\\OrdApply\\obj\\AFCSYS.obj" /file "D:\\OrdApply\\obj\\Af9detl.obj" /file "D:\\OrdApply\\obj\\Af9dtobj.obj" /file "D:\\OrdApply\\obj\\Af9local.obj" /file "D:\\OrdApply\\obj\\Af9main.obj" /file "D:\\OrdApply\\obj\\Af9ordrs.obj" /file "D:\\OrdApply\\obj\\Af9profl.obj" /file "D:\\OrdApply\\obj\\Af9ption.obj" /file "D:\\OrdApply\\obj\\Af9sysed.obj" /file "D:\\OrdApply\\obj\\Af9systm.obj" 
++date=2450582
++time=46963
+date=2450582
++time=46963
+date=2450582
++time=46963
+ate=2450582
++time=46963
+
++time=61570
+4
+
+

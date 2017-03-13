@@ -1,0 +1,16 @@
+-ProjectInfo
++name=C Dynamic Link Library
++type=VACPP.IWS
+-BuildInfo
++target=Bf9sbapi.dll
++runOptions=
++makefile=Bf9sbapi.mak
+-LocationInfo
++defaultDir=c:\\sb9dll\\Bfsrc
++dirs=c:\\sb9dll\\Bfsrc
+-ConfigInfo
++filter=*
++position=0 1 3000 2977 -1 -1 602 256 957 543
+-Environment
++var1=INCLUDE=.\\;..\\inc;%INCLUDE%
+CLUDE%

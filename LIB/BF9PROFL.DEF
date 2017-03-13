@@ -1,0 +1,5 @@
+LIBRARY  BF9PROFL 
+EXPORTS              
+;From object file:  .\AF9PFAPI.obj
+  ;PUBDEFs (Symbols available from object file):
+    _EditBaseRetrievalProfile@4

@@ -1,0 +1,21 @@
+-ProjectInfo
++name=cksmcfr EXE Project
++type=VACPP.IWS
+-BuildInfo
++target=D:\\base\\cksmcfr.exe
++runOptions=
++makefile=\\base\\mak\\cksmcfr.mak
+-LocationInfo
++defaultDir=D:\\base\\obj\\cksm
++dirs=D:\\base\\INC;D:\\base\\rm2\\src\\cksm;D:\\base\\obj\\cksm
+-ConfigInfo
++filter=*
++position=0 1 -1 -1 -1 -1 594 186 956 654
++view=tree
+-Environment
++var1=INCLUDE=%INCLUDE%;D:\\base\\INC
++var2=INCLUDE=%INCLUDE%;\\Base\\src;\\Base\\rm2\\src
++var3=INCLUDE=%INCLUDE%;\\Base\\rm2\\src\\rm2icext
++var4=LIB=%LIB%;D:\\base\\Rm2\\lib
++var5=LIB=\\Bend\\lib;%LIB%
+%LIB%

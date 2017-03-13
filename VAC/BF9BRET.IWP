@@ -1,0 +1,18 @@
+-ProjectInfo
++name=Bf9bret EXE Project
++type=VACPP.IWS
+-BuildInfo
++target=c:\\base\\BF9BRET.EXE
++runOptions=
++makefile=c:\\base\\mak\\bf9bret.mak
+-LocationInfo
++defaultDir=c:\\base\\obj
++dirs=c:\\base\\INC;c:\\base\\mri;c:\\base\\obj;c:\\base\\src;c:\\base\\Rm2\\inc;c:\\base\\Rm2\\src;c:\\base\\Rm2\\src\\ppk;c:\\base\\Rm2\\src\\rm2icext
+-ConfigInfo
++filter=*
++position=0 1 -1 -1 -1 -1 229 98 581 365
++view=tree
+-Environment
++var1=INCLUDE=c:\\base\\INC;\\Base\\src;\\Base\\rm2\\src;\\Base\\rm2\\src\\rm2icext;\\Base\\rm2\\inc;%INCLUDE%;
++var2=LIB=c:\\base\\lib;c:\\base\\Rm2\\lib;%LIB%
+2\\lib

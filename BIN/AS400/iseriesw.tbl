@@ -1,0 +1,79 @@
+iSeries Software Feature Table
+06/26/02  Initial Release
+
+5648E70 ****     1 Year Maintenance PID
+5648E71 ****     3 Year Maintenance PID
+5733SW1 ****     1 year SW Subscription V5
+5733SW3 ****     3 year SW Subscription V5
+5733SM1 ****     1 year SW Subscription V4
+5733SM2 ****     2 year SW Subscription V4
+5733SM3 ****     3 year SW Subscription V4
+5733SM4 ****     4 year SW Subscription V4
+5733SM5 ****     5 year SW Subscription V4
+5733CAF ****     Currency  Access Fee V4
+5733A62 ****     1 Year Maintenance PID
+5733A67 ****     1 Year Maintenance PID
+5733A68 ****     3 Year Maintenance PID
+5733A74 ****     3 Year Maintenance PID
+5733A75 ****     1 Year Maintenance PID
+5733A76 ****     3 Year Maintenance PID
+5733M19 ****     1 Year Maintenance PID
+5733M20 ****     3 Year Maintenance PID
+5733M27 ****     1 Year Maintenance PID
+5733M28 ****     3 Year Maintenance PID
+5733M29 ****     1 Year Maintenance PID
+5733M30 ****     3 Year Maintenance PID
+5733M31 ****     1 Year Maintenance PID
+5733M32 ****     3 Year Maintenance PID
+5733M33 ****     1 Year Maintenance PID
+5733M34 ****     3 Year Maintenance PID
+5733M37 ****     1 Year Maintenance PID
+5733M38 ****     3 Year Maintenance PID
+5733M81 ****     1 Year Maintenance PID
+5733M82 ****     3 Year Maintenance PID
+5733M87 ****     1 Year Maintenance PID
+5733MA1 ****     1 Year Maintenance PID
+5733MA2 ****     3 Year Maintenance PID
+5733MS6 ****     1 Year Maintenance PID
+5733MS7 ****     3 Year Maintenance PID
+5733M88 ****     3 Year Maintenance PID
+5733M89 ****     1 Year Maintenance PID
+5733M90 ****     3 Year Maintenance PID
+5733M91 ****     1 Year Maintenance PID
+5733M92 ****     3 Year Maintenance PID
+5733M97 ****     1 Year Maintenance PID
+5733M98 ****     3 Year Maintenance PID
+5755AS3 ****     SIPO - V2, all releases
+5755AS4 ****     SIPO - V3, all releases
+9401*** 0040     Disk Level Mirroring (all models)
+9402*** 0040     Disk Level Mirroring (all models)
+9404*** 0040     Disk Level Mirroring (all models)
+9406*** 0040     Disk Level Mirroring (all models)
+9401*** 0041     RAIID device parity (all models)
+9402*** 0041     RAIID device parity (all models)
+9404*** 0041     RAIID device parity (all models)
+9406*** 0041     RAIID device parity (all models)
+9401*** 0042     IOP Level Mirroring (all models)
+9402*** 0042     IOP Level Mirroring (all models)
+9404*** 0042     IOP Level Mirroring (all models)
+9406*** 0042     IOP Level Mirroring (all models)
+9401*** 0043     BUSS Level Mirroring (all models)
+9402*** 0043     BUSS Level Mirroring (all models)
+9404*** 0043     BUSS Level Mirroring (all models)
+9406*** 0043     BUSS Level Mirroring (all models)
+9401*** 0044     Load Source Mirroring (all models)
+9402*** 0044     Load Source Mirroring (all models)
+9404*** 0044     Load Source Mirroring (all models)
+9406*** 0044     Load Source Mirroring (all models)
+
+********************************************************************
+Notes:
+
+1.
+
+********************************************************************
+EXCEPTIONS:
+
+1.
+
+********************************************************************

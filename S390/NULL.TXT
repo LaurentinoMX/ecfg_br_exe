@@ -1,0 +1,4 @@
+Empty file (needed in CMVC to create S390\ model directory)
+
+Note for developer: You will need to get the nocomp.tbl, quickfix.tbl, cpulook.tbl
+and feature.$$f from the s390 model files in the econfig model
